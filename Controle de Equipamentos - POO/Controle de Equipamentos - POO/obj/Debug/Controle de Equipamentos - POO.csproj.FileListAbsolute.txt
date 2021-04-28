@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Controle de Equipamentos - POO\Controle de Equipamentos - POO\bin\Debug\Controle de Equipamentos - POO.exe.config
+C:\Users\eduar\source\repos\Controle de Equipamentos - POO\Controle de Equipamentos - POO\bin\Debug\Controle de Equipamentos - POO.exe
+C:\Users\eduar\source\repos\Controle de Equipamentos - POO\Controle de Equipamentos - POO\bin\Debug\Controle de Equipamentos - POO.pdb
+C:\Users\eduar\source\repos\Controle de Equipamentos - POO\Controle de Equipamentos - POO\obj\Debug\Controle de Equipamentos - POO.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Controle de Equipamentos - POO\Controle de Equipamentos - POO\obj\Debug\Controle de Equipamentos - POO.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Controle de Equipamentos - POO\Controle de Equipamentos - POO\obj\Debug\Controle de Equipamentos - POO.exe
+C:\Users\eduar\source\repos\Controle de Equipamentos - POO\Controle de Equipamentos - POO\obj\Debug\Controle de Equipamentos - POO.pdb

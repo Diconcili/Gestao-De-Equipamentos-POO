@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle de Equipamentos - POO", "Controle de Equipamentos - POO\Controle de Equipamentos - POO.csproj", "{04385C82-F768-4F44-ACB1-715EAF98ECE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04385C82-F768-4F44-ACB1-715EAF98ECE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04385C82-F768-4F44-ACB1-715EAF98ECE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04385C82-F768-4F44-ACB1-715EAF98ECE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04385C82-F768-4F44-ACB1-715EAF98ECE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D17A304-80BC-4E30-B414-1F4D88E9442B}
+	EndGlobalSection
+EndGlobal
